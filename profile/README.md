@@ -13,12 +13,12 @@
 **GokiStats**
 Modern continuation of [InfinityStudio/GokiStats](https://github.com/InfinityStudio/GokiStats).
 
-`26.2 Fabric` · `26.2 NeoForge` · `1.20.1 potentially`
+<sub>`26.2 Fabric` · `26.2 NeoForge` · `1.20.1 potentially`</sub>
 
 ---
 
 ### Maintainer
 
-**dangeroni (kossman)**
+[**dangeroni**](https://github.com/stkossman)
 
 <sub>Solo developer.</sub>
