@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/dangeroni-wide.png" alt="Dangeroni" width="100%" />
+<img src="./dangeroni-wide.jpg" alt="Dangeroni" width="100%" />
 
 <sub>Minecraft mods, ports, and continuations.</sub>
 
